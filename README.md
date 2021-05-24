@@ -13,8 +13,7 @@
 
 <h3> Aprendendo </h3>
 
-- 📌 &nbsp; Flutter/Dart.
-- 📌 &nbsp; Vue.js.
+- 📌 &nbsp; Flutter/Dart. 
 
 <h3> Ferramentas </h3>
 
