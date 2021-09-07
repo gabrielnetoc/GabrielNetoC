@@ -13,6 +13,7 @@
 
 <h3> Aprendendo </h3>
 
+ 📌 &nbsp; ReactJS. 
 - 📌 &nbsp; Flutter/Dart. 
 
 <h3> Ferramentas </h3>
