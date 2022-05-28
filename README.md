@@ -3,14 +3,11 @@
 <h3>Sobre</h3> 
 </hr>
 
-<p>Desenvolvedor Front-End, detalhista no UI Design, sempre em busca de novas tecnologias!</p>
+<p>Desenvolvedor Front-End e UI designer, sempre em busca de novas tecnologias!</p>
 
 <h3>Habilidades</h3> 
 
-- 📌 &nbsp; HTML.
-- 📌 &nbsp; CSS.
-- 📌 &nbsp; JavaScript.
-- 📌 &nbsp; Bootstrap.
+- 📌 &nbsp; 404.
 
 <h3> Aprendendo </h3>
 
